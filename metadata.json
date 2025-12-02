@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VoltLink",
+  "description": "A comprehensive EV charging companion that locates infrastructure, simulates charging sessions, and manages payments with integrated AI assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
